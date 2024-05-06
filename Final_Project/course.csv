@@ -1,0 +1,32 @@
+Subject,Prerequisite,Recommended_Grade
+Programming,None,1
+Calculus,None,1
+Financial Accounting,None,1
+Economic,None,1
+Statistic,None,1
+Financial Accounting 2,Financial Accounting,2
+Economic 2,Economic,2
+Statistic 2,Statistic,2
+Calculus 2,Calculus,2
+Object Oriented Programming,Programming,1
+Data Structure,Object Oriented Programming,2
+Algorithm,Data Structure,3
+Discrete Math,None,1
+Operating System,Computer Science,2
+Linear Algebra,Calculus,1
+Logic Design,None,1
+HTML,None,1
+Management,None,1
+Essential Python Machine Learning,Object Oriented Programming,3
+Essential Python Deep Learning,Object Oriented Programming,3
+Computer Science,None,1
+Essential of MIS,None,1
+Information and Network Security,None,2
+Computer Networking,None,2
+Computer Architecture,Logic Design,2
+Computer Organization,Computer Architecture,3
+Computer Graphics,Algorithm,3
+Computer Vision,Computer Graphics,4
+Artificial Intelligence,Algorithm,3
+Advanced Machine Learning,Essential Python Machine Learning,4
+Advanced Deep Learning,Essential Python Deep Learning,4
